@@ -8,7 +8,7 @@
     .header{
         width: 100%;
     min-height: 100vh;
-    background-image: url("https://images.alphacoders.com/113/1131067.png");
+    background-image: url("https://wallpaperboat.com/wp-content/uploads/2020/06/03/42361/aesthetic-anime-01.jpg");
     background-size: cover;
     background-position: center;
     position: relative;
@@ -35,7 +35,7 @@
     }
     
     nav ul li a{
-    color: white;
+    color: black;
     text-decoration: none;
     font-size: 17px;
     }
@@ -97,14 +97,14 @@
     }
 
     .kk{
-        color: black;
+        color: BLACK;
     }
     .k{
-        color: black;
+        color: BLACK;
     }
     .kkk{
-        color: black;
+        color:BLACK;
     }
     .kkkk{
-        color: black;
+        color: BLACK;
     }
